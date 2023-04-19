@@ -1,5 +1,5 @@
 <h1> PROJETO UNNew </h1>
-<h2> Feito pelos alunos da Uninorte em parceria com aluno da Fametro, <br>
+<h2> Feito pelos alunos da Uninorte, <br>
 do curso de Ciências da Computação cujo nomes são: </h2>
 <h3> Caio Matheus Ribeiro da Silva <br>
   Samuel Alexandre Martins da Costa <br>
