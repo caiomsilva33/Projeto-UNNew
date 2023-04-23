@@ -1,0 +1,13 @@
+body{
+    background-color: blue;
+}
+header{
+    background-color: orangered;
+}
+.cabeba-header{
+    align-items: center;
+}
+.cabeca-projetos{
+    border-radius: 10px;
+    border-color: white;
+}
