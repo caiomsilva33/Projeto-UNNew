@@ -108,3 +108,9 @@ nav ul {
 header{
     background-image: linear-gradient(rgb(250, 129, 59),orangered,rgb(250, 129, 59));
 }
+.conteudo-secundario{
+  display: flex;
+ justify-content: center;
+  margin: auto;
+  color: aliceblue;
+}
