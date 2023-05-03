@@ -34,6 +34,36 @@ body{
     display: flex;
     gap: 40px;
 }
+.cabeca-projetos{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+    background-position-y: center;
+    background-clip: text;
+    color: rgba(255, 255, 255,);
+    -webkit-background-clip: text;
+}
+.cabeca-cursos{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+    background-position-y: center;
+    background-clip: text;
+    color: rgba(255, 255, 255,);
+    -webkit-background-clip: text;
+}
+.cabeca-objetivos{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+    background-position-y: center;
+    background-clip: text;
+    color: rgba(255, 255, 255,);
+    -webkit-background-clip: text;
+}
 header{
     background-image: linear-gradient(rgb(250, 129, 59),orangered,rgb(250, 129, 59));
 }
