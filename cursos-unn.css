@@ -97,7 +97,7 @@ p{
     .curso-botao {
       display: flex;
       justify-content: center;
-      background-color: #007bff;
+      background-color: white;
       color: #fff;
       border: none;
       padding: 10px;
@@ -109,5 +109,4 @@ p{
     
     .curso-botao:hover {
       background-color: #0069d9;
-    }
-    
+   }
