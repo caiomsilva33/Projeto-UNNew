@@ -69,16 +69,18 @@ header{
 }
 .unidades{
   background-color: white;
+  list-style: none;
+  padding: 0;
+  margin: auto;
 }
 .unidades-list{
-  color: black;
+  color: blue;
   text-transform: uppercase;
   font-weight: bold;
   font-size: 25px;
   text-align: center;
   background-position-y: center;
   background-clip: text;
-  color: rgb(0, 0, 0);
   -webkit-background-clip: text;
 }
 .conteudo-secundario{
@@ -86,4 +88,27 @@ header{
  justify-content: center;
   margin: auto;
   color: aliceblue;
+}
+a{
+  font-size: 20px;
+  color: orange;
+  text-align: left;
+  background-position: center;
+  background-clip: text;
+  text-transform: uppercase;
+}
+button{
+  display: flex;
+  justify-content: center;
+  background-color: white;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  margin-bottom: 5px;
+  cursor: pointer;
+  width: 100%;
+  text-align: center;
+}
+button:hover{
+  background-color: blue;
 }
