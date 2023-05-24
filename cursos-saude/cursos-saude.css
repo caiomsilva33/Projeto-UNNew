@@ -1,0 +1,67 @@
+@font-face {
+    font-family: lp;
+    src: url(RobotoSlab-Light.ttf);
+  }
+  @font-face {
+    font-family: lpp;
+    src: url(RobotoSlab-VariableFont_wght.ttf);
+  }
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
+  body{
+      font-size: 100%;
+      background-color: white;
+      background-size: cover;
+      background-repeat: no-repeat;
+  }
+  .cabeba-header{
+      display: flex;
+      flex-direction: row-reverse;
+      align-items: baseline;
+      justify-content: space-around;
+      padding: 24px;
+  }
+  .imagem-cabeca{
+      height: 70px;
+  }
+  .cabeca-nav{
+      display: flex;
+      gap: 40px;
+  }
+  .cabeca-projetos{
+      color: white;
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: 30px;
+      background-position-y: center;
+      background-clip: text;
+      color: rgba(255, 255, 255,);
+      -webkit-background-clip: text;
+  }
+  .cabeca-cursos{
+      color: white;
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: 30px;
+      background-position-y: center;
+      background-clip: text;
+      color: rgba(255, 255, 255,);
+      -webkit-background-clip: text;
+  }
+  .cabeca-objetivos{
+      color: white;
+      text-transform: uppercase;
+      font-weight: bold;
+      font-size: 30px;
+      background-position-y: center;
+      background-clip: text;
+      color: rgba(255, 255, 255,);
+      -webkit-background-clip: text;
+  }
+  header{
+      background-image: linear-gradient(rgb(250, 129, 59),orangered,rgb(250, 129, 59));
+  }
