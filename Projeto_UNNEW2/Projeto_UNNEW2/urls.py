@@ -1,7 +1,6 @@
 from django.contrib import admin
 from django.urls import path
-from .views import inicio
-from ProjetosUNN.views import cursos
+from .views import inicio, cursos
 
 urlpatterns = [
     path('', inicio, name='inicio'),
