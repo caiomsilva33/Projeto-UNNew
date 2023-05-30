@@ -1,4 +1,4 @@
 from django.shortcuts import render
 
-def projetos(request):
-    return render(request, 'telaprincipal.html'),
+def cursos(request):
+    return render(request, 'CURSOS-UNN.html')
